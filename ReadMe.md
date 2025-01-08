@@ -8,7 +8,7 @@ Web App Developer
 Hi there! I'm Rania, a passionate web developer specializing in Express.js. I've dedicated myself to building dynamic and scalable web applications for the past year. I thrive on the challenges that coding brings, constantly evolving and learning to deliver top-notch solutions. Express.js has been my primary playground, where I've honed my skills in creating efficient and user-friendly backend systems that power seamless web experiences.
 
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [raniaahammad@outlook.com@](mailto:raniaahammad@outlook.com)
+* ✉️  You can contact me at [raniaahammad@outlook.com](mailto:raniaahammad@outlook.com)
 * 🚀  I'm currently working on Job Search Web Application
 * 🧠  I'm learning Exploring a new framework to further expand my development horizons 🌐
 * 🤝  I'm open to collaborating on Fascinating and innovative projects 🌟
